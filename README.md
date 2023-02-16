@@ -3,9 +3,7 @@
 In this project I compared the effect of using GAN for data augmentation to traditional data augmentation techniques.<br>
 The dataset used in this project is  [NotMnist](https://www.kaggle.com/datasets/lubaroli/notmnist).
 
-<h2> Accuracy with traditional techniques of data augmentation:</h2><br>
-  
-![](images/notminist_cnn_acc.png)<br>
+
 
 <h2> Results :</h2><br>
 
@@ -15,8 +13,10 @@ The dataset used in this project is  [NotMnist](https://www.kaggle.com/datasets/
 | Validation     | 0.95                                 |       0.94     |
 | Test           | 0.96                                 |       0.94     |
 
-
-
+<br>
+<h2> Accuracy with traditional techniques of data augmentation:</h2><br>
+  
+![](images/notminist_cnn_acc.png)<br>
 <h2> Accuracy with GAN:</h2><br>
   
 ![](images/notminist_cnn_gan.png)
